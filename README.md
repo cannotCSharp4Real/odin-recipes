@@ -1,1 +1,1 @@
-Creation of a basic recipe website
+Basic Recipe Website
